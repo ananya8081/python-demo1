@@ -1,3 +1,4 @@
+print("Hello...done")
 # Display a welcome message
 print("Welcome to our store!")
 
